@@ -2,6 +2,16 @@
 
 Example scripts to demonstrate how to use [Chai](https://www.chaijs.com/) with [k6](https://k6.io/) 💜
 
+## Pre-requisites
+
+- [k6](https://k6.io/docs/getting-started/installation/)
+
+## Running the tests
+
+```bash
+k6 run <file>
+```
+
 ## Resources
 
 - [Using Chai with k6](https://k6.io/blog/k6-chai-js/)
